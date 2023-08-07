@@ -134,7 +134,6 @@ body {
   color: #fff;
   text-transform: uppercase;
 }
-
 /* section 레이아웃 공통 패팅 */
 .wrap section {
   padding: 80px 0;
@@ -895,7 +894,6 @@ body {
   margin-left: 4px;
   float: left;
 }
-
 /* 오늘의 상품 */
 .today {
   position: relative;
